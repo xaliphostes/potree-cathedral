@@ -1,0 +1,17 @@
+{
+  "name": "potree-cathedral",
+  "version": "1.0.0",
+  "description": "Point cloud for the Cathedral of the Demoiselles cave",
+  "keywords": [
+    "point",
+    "cloud",
+    "pointcloud",
+    "webgl",
+    "browser"
+  ],
+  "main": "./index.html",
+  "scripts": {
+    "serve": "http-server . -p 33 -o index.html"
+  },
+  "license": "BSD-2-CLAUSE"
+}
